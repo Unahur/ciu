@@ -1,6 +1,6 @@
 # Introducción
 
-1.1 ¿Qué vamos a ver en la materia?
+1.1 ¿Qué vamos a ver en la materia?
 
 * Qué son las Interfaces de Usuario
 * Quién es el Usuario
