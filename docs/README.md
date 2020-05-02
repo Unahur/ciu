@@ -23,3 +23,12 @@
 
 >[!TIP|label:CSS Frameworks]
 >Vienen en nuestra ayuda los [CSS frameworks](/05-css-frameworks/)
+
+>[!TIP|label:JavaScript]
+>Agregando acciones a nuestras interfaces mediante[JavaScript](/06-js/)
+
+>[!TIP|label:DOM]
+>¿Qué es el [DOM](/08-dom/)?
+
+>[!TIP|label:Eventos]
+>Aprendamos sobre los [Eventos](/12-eventos/)
