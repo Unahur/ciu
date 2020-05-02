@@ -13,7 +13,6 @@
   - [Herramientas](/00-intro/stack)
   - [Git](/00-intro/git)
   - [Postman](/00-intro/postman)
-  - [Meteor](/00-intro/meteor)
 
 - Enlaces de interes
 
@@ -21,3 +20,6 @@
   - [Repo](https://github.com/Unahur/ciu)
   - [Correo](mailto:gmolina@gm2dev.com)
   
+- Otros recursos  
+  - [Meteor](https://www.meteor.com/tutorials/react/creating-an-app)
+  - [Google Design](https://design.google/resources/)

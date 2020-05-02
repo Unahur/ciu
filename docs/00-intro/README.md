@@ -11,4 +11,4 @@
 * Eventos, Binding, Layouts, Validaciones, Excepciones y presentación de Errores
 * Stateful vs Stateless
 * Server Side vs Client Side
-* Web, Mobile y algo de Desktop
+* Responsive Web, idealmente Mobile y algo de Desktop

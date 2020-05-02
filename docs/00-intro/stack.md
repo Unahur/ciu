@@ -8,6 +8,4 @@
 * [Postman](https://www.getpostman.com/)
 * [JSON](https://www.json.org/)
 * [ReactJS](https://es.reactjs.org/)
-* [React Native](https://facebook.github.io/react-native/)
-* [Meteor](https://www.meteor.com)
-* [Docker](https://www.docker.com)
+* [Figma](https://figma.com/)
