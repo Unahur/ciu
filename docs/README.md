@@ -32,3 +32,12 @@
 
 >[!TIP|label:Eventos]
 >Aprendamos sobre los [Eventos](/12-eventos/)
+
+>[!TIP|label:JavaScript II]
+>Un poco más de [JavaScript](/14-js/)
+
+>[!TIP|label:POO]
+>Programación orientada a objetos - [POO](/15-poo/)
+
+>[!TIP|label:React]
+>Les presento a [React](/16-react/)
