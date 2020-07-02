@@ -1,7 +1,7 @@
 # Introducción
 
 - Información importante
-  - [Trabajos Practicos](/00-intro/trabajos-practicos)
+  - [Mejores prácticas](/00-intro/best-practices)
 
 - Interfaces de usuario
 

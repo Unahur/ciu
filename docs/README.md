@@ -40,4 +40,4 @@
 >Programación orientada a objetos - [POO](/15-poo/)
 
 >[!TIP|label:React]
->Les presento a [React](/16-react/)
+>Les presento a [React](/18-react/)
