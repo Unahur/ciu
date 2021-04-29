@@ -2,7 +2,7 @@
 
 - 1.Introducción
 
-  - [1.1 Objetivos](/02-css/2/1.1-objetivos.md)
+  - [1.1 Objetivos](/02-css/1.1-objetivos.md)
 
 - 2.CSS
 
